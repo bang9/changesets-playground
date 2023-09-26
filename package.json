@@ -1,0 +1,11 @@
+{
+  "name": "changesets-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bang9/changesets-playground.git",
+  "author": "bang9 <gusrn1423@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@changesets/cli": "^2.26.2"
+  }
+}
